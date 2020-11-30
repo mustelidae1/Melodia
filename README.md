@@ -44,7 +44,7 @@ and the way that it records audio will not work with the audio source muted in
 newer versions of Unity. To get around this, I added an audio mixer to the audio 
 source and decreased the attenuation volume (under Master) to -80 dB. 
 
-**Midi Player** 
+**Midi Player: Midi Tool Kit** 
 https://assetstore.unity.com/packages/tools/audio/midi-tool-kit-free-107994
 
 I used the Midi Toolkit asset to play the generated background music. 
