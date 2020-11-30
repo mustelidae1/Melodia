@@ -13,11 +13,10 @@ your voice.
 
 ## Motivation
 
-Melodia exists for a variety of reasons. The main goal is to create a positive
-feedback space for people who sing and are learning to sing. The environment 
-changes as users get more notes right, allowing them to visualize their voice and 
-their success. When singers can hear themselves well they often sing better, and Melodia 
-is designed to extend this idea into a visual space.  
+The main goal of Melodia is to create a positive feedback space for people who sing 
+and are learning to sing. The environment changes as users get more notes right, 
+allowing them to visualize their voice and their success. When singers can hear themselves 
+well they often sing better, and Melodia is designed to extend this idea into a visual space.  
 
 ## Installation
 
