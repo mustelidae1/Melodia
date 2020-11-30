@@ -44,6 +44,11 @@ and the way that it records audio will not work with the audio source muted in
 newer versions of Unity. To get around this, I added an audio mixer to the audio 
 source and decreased the attenuation volume (under Master) to -80 dB. 
 
+**Midi Player** 
+https://assetstore.unity.com/packages/tools/audio/midi-tool-kit-free-107994
+
+I used the Midi Toolkit asset to play the generated background music. 
+
 **Value Mapping** 
 https://forum.unity.com/threads/re-map-a-number-from-one-range-to-another.119437/
 
