@@ -18,12 +18,6 @@ and are learning to sing. The environment changes as users get more notes right,
 allowing them to visualize their voice and their success. When singers can hear themselves 
 well they often sing better, and Melodia is designed to extend this idea into a visual space.  
 
-## Installation
-
-To play, simply download the Melodia.exe file and run it! The Melodia_Data folder needs
-to be kept in the same folder as the executable for the game to work. You will also need 
-SteamVR installed and any additional software required by your VR headset. 
-
 ## How to Play 
 
 The tutorial at the beginning will walk you through how to play the game. Your hands will 
